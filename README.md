@@ -6,6 +6,8 @@ The [Claude Code](https://code.claude.com/) plugin marketplace of Ella Networks.
 | --- | --- | --- |
 | `ella-core` | [Ella Core](https://docs.ellanetworks.com/core/) | [ellanetworks/core](https://github.com/ellanetworks/core) |
 | `ella-ims` | [Ella IMS](https://docs.ellanetworks.com/ims/) | [ellanetworks/ims](https://github.com/ellanetworks/ims) |
+| `ella-smsc` | [Ella SMSC](https://docs.ellanetworks.com/smsc/) | [ellanetworks/smsc](https://github.com/ellanetworks/smsc) |
+| `ella-mocn` | [Ella MOCN](https://docs.ellanetworks.com/mocn/) | [ellanetworks/mocn](https://github.com/ellanetworks/mocn) |
 
 ## Install
 
