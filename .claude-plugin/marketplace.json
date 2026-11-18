@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ellanetworks",
+  "description": "Ella Networks plugins for Claude Code.",
+  "owner": {
+    "name": "Ella Networks",
+    "email": "contact@ellanetworks.com"
+  },
+  "plugins": [
+    {
+      "name": "ella-core",
+      "description": "Manage and inspect a running Ella Core private mobile network through its REST API.",
+      "source": {
+        "source": "github",
+        "repo": "ellanetworks/core"
+      },
+      "homepage": "https://docs.ellanetworks.com/core/",
+      "repository": "https://github.com/ellanetworks/core",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "ella-ims",
+      "description": "Manage and inspect a running Ella IMS through its REST API.",
+      "source": {
+        "source": "github",
+        "repo": "ellanetworks/ims"
+      },
+      "homepage": "https://docs.ellanetworks.com/ims/",
+      "repository": "https://github.com/ellanetworks/ims"
+    }
+  ]
+}
